@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "welcome to devops bootcamp $USER"

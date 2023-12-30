@@ -1,0 +1,4 @@
+{"timestamp":113206,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"extensions-migration-in-import-wizard-116-rollout","enrollment_id":"bc4be3d5-960b-4fed-a5de-1567b8e99008","branch":"control","experiment_type":"rollout"}}
+{"timestamp":113890,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":115514,"category":"nimbus_events","name":"exposure","extra":{"branch":"control","feature_id":"spotlight","experiment":"fox-doodle-set-to-default-early-day-user-car-fox-rollout"}}
+{"timestamp":140399,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
