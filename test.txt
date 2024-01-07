@@ -1,2 +1,6 @@
- hello saif
-ggg
+<<<<<<< HEAD
+saaifff
+
+=======
+saaifff
+>>>>>>> master
