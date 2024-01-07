@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 saaifff
+
+=======
+saaifff
+>>>>>>> master
+=======
+saaifff
+>>>>>>> 75c0fe5aa87e3e6a505bf814466dedd3544c10ba
